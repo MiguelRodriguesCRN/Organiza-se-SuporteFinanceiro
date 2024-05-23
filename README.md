@@ -1,42 +1,61 @@
-# Organiza-se-SuporteFinanceiro
 
-Organiza-se
-Bem-vindo ao repositório do Organiza-se. Este projeto visa fornecer uma plataforma abrangente para gerenciar e acompanhar as finanças pessoais e empresariais, oferecendo uma variedade de ferramentas para controle e análise financeira.
+---
 
-Funcionalidades Principais
-Controle de Orçamento
-Defina e monitore seus orçamentos mensais e anuais com facilidade.
+# Organiza-se
 
-Análise de Despesas
-Categorize e visualize detalhadamente seus gastos para melhor entendimento.
+Bem-vindo ao repositório do **Organiza-se**. Este projeto visa fornecer uma plataforma abrangente para gerenciar e acompanhar as finanças pessoais e empresariais, oferecendo uma variedade de ferramentas para controle e análise financeira.
 
-Planejamento Financeiro
-Planeje metas financeiras de curto e longo prazo de maneira eficiente.
+---
 
-Relatórios
-Gere relatórios financeiros personalizados para insights detalhados.
+## Funcionalidades Principais
 
-Integração Bancária
-Conecte suas contas bancárias e importe transações automaticamente.
+- **Controle de Orçamento**  
+  Defina e monitore seus orçamentos mensais e anuais com facilidade.
+  
+- **Análise de Despesas**  
+  Categorize e visualize detalhadamente seus gastos para melhor entendimento.
 
-Alertas e Notificações
-Receba notificações sobre gastos excessivos e prazos de pagamento.
+- **Planejamento Financeiro**  
+  Planeje metas financeiras de curto e longo prazo de maneira eficiente.
 
-Tecnologias Utilizadas
-Frontend: React, Redux, CSS3
-Backend: Node.js, Express.js
-Banco de Dados: MongoDB
-Autenticação: JWT (JSON Web Tokens)
-Hospedagem: AWS
-Como Contribuir
+- **Relatórios**  
+  Gere relatórios financeiros personalizados para insights detalhados.
+
+- **Integração Bancária**  
+  Conecte suas contas bancárias e importe transações automaticamente.
+
+- **Alertas e Notificações**  
+  Receba notificações sobre gastos excessivos e prazos de pagamento.
+
+---
+
+## Tecnologias Utilizadas
+
+- **Frontend:** React, Redux, CSS3
+- **Backend:** Node.js, Express.js
+- **Banco de Dados:** MongoDB
+- **Autenticação:** JWT (JSON Web Tokens)
+- **Hospedagem:** AWS
+
+---
+
+## Como Contribuir
+
 Contribuições são bem-vindas! Para contribuir, siga estas etapas:
 
-Faça um fork deste repositório.
-Crie uma branch para sua feature (git checkout -b feature/nome-da-feature).
-Commit suas alterações (git commit -m 'Adiciona nova feature').
-Faça o push para a branch (git push origin feature/nome-da-feature).
-Abra um Pull Request.
+1. **Faça um fork deste repositório.**
+2. **Crie uma branch para sua feature** (`git checkout -b feature/nome-da-feature`).
+3. **Commit suas alterações** (`git commit -m 'Adiciona nova feature'`).
+4. **Faça o push para a branch** (`git push origin feature/nome-da-feature`).
+5. **Abra um Pull Request.**
+
 Por favor, siga as diretrizes de contribuição ao submeter seu pull request.
 
-Contato
+---
+
+## Contato
+
 Se tiver alguma dúvida ou sugestão, sinta-se à vontade para abrir uma issue ou entrar em contato diretamente.
+
+---
+
