@@ -21,12 +21,6 @@ Bem-vindo ao repositório do **Organiza-se**. Este projeto visa fornecer uma pla
 - **Relatórios**  
   Gere relatórios financeiros personalizados para insights detalhados.
 
-- **Integração Bancária**  
-  Conecte suas contas bancárias e importe transações automaticamente.
-
-- **Alertas e Notificações**  
-  Receba notificações sobre gastos excessivos e prazos de pagamento.
-
 ---
 
 ## Tecnologias Utilizadas
@@ -35,7 +29,7 @@ Bem-vindo ao repositório do **Organiza-se**. Este projeto visa fornecer uma pla
 - **Backend:** Node.js, Express.js
 - **Banco de Dados:** MongoDB
 - **Autenticação:** JWT (JSON Web Tokens)
-- **Hospedagem:** AWS
+- **Hospedagem:** XXX
 
 ---
 
